@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class input {
 
+//Edit - Test for GitHub practice  
 	public static void main(String[] args) 
 	{
 		int i;
